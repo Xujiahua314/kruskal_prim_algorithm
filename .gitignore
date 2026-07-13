@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+*.exe
+*.out
+*.o
+*.obj
+*.ilk
+*.pdb
+
+# IntelliSense / precompiled headers
+*.ipch
+*.db
+*.opendb
+
+# SQLite
+*.sqlite
